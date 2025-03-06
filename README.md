@@ -34,6 +34,6 @@ After that just execute the builded files to get a results.
 
 ### Credits
 
-Made by Vadim Truhanov, vt24011
+Vadim Truhanov, vt24011
 
 6 march 2025
